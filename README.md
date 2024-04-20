@@ -1,27 +1,19 @@
-# Friday Night Funkin' - Psych Engine Organized
+## Friday Night Funkin' - Vs Dab !!
 
-![](https://github.com/SquidBowl/PE-0.7.2-ORGANIZED/blob/main/art/thumbnail.gif)
+we fucking around with this shit
 
-A fork of [Psych Engine](https://github.com/ShadowMario/) based off 0.7.2 Experimental Branch that keeps modding and organization in mind. 
-
-You guys like 0.7.2? Well, I do! Do you hate having to remove all the shit unneeded files? Well, I do too. So I did something about it! I made a Psych Fork that removes and cleans any and all unneeded assets, classes, and files!
-
-## Changes
-- Removed unneeded Stage classes
-- Ran all images through oxipng for optimal image quality and performance
-- Deleted any unneeded files/assets
-- Repathed folders to keep things organized
-- Fixed the slow camera movement in PlayState + MainMenuState
-- Added a Customizable FPS/MEM Counter
-- Reduced Deprecation Warnings
-- Removed unneeded files in Art folder in Root folder
-- Toggleable Videos option to reduce folder size
-- Organized menu folders/Uncluttered shared folder
-- Setup hmm/.BAT file(s)
+# Engine
+This mod runs on SquidBowl's Modified Psych Engine Fork! Check it out [here!](https://github.com/SquidBowl/PE-0.7.2-ORGANIZED)
 
 ## Installation:
 * Inside the root folder is another folder named "setup". If you struggle to compile, just run the .BAT file.
 * In addition to what's above, you can run ``haxelib run hmm install`` if all you want is the dependencies.
+
+# Credits:
+* [kurubyte](https://twitter.com/kurubite) - Musician
+* [TheConcealedCow](https://gamebanana.com/members/1739194) - Programmer (Lua) / Moral Support
+* [CobaltBar](https://cobaltbar.carrd.co) - Lead Programmer
+* [CheddarChi](https://twitter.com/CheddarChiiNG) - Director / Artist / Animator
 
 # Psych Engine Credits:
 * Shadow Mario - Programmer
@@ -38,7 +30,4 @@ You guys like 0.7.2? Well, I do! Do you hate having to remove all the shit unnee
 * Keoiki - Note Splash Animations
 * Smokey - Sprite Atlas Support
 * Nebula the Zorua - LUA JIT Fork and some Lua reworks
-
-## The Forker Themself
-* SquidBowl/TINKATONK - I uhh organized and deleted stuff for modding
 _____________________________________
