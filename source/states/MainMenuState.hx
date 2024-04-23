@@ -65,7 +65,7 @@ class MainMenuState extends MusicBeatState
 		menuItems.members[2].setPosition(45, 435);
 		menuItems.members[3].setPosition(255, 435);
 
-		var dabVer:FlxText = new FlxText(12, FlxG.height - 64, 0, "VS Dab v1", 12);
+		var dabVer:FlxText = new FlxText(12, FlxG.height - 64, 0, "VS Dab v3", 12);
 		dabVer.scrollFactor.set();
 		dabVer.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(dabVer);
