@@ -53,6 +53,8 @@ class MainMenuState extends MusicBeatState
 			var menuItem:FlxSprite = new FlxSprite(-1000, 0);
 			menuItem.frames = Paths.getSparrowAtlas("dab/menu_" + optionShit[i]);
 			menuItem.antialiasing = ClientPrefs.data.antialiasing;
+			menuItem.animation.addByPrefix('idle', optionShit[i], 6);
+			menuItem.animation.play('idle');
 			menuItem.alpha = 0.6;
 			menuItems.add(menuItem);
 			menuItem.updateHitbox();

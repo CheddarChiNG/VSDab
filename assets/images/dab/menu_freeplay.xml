@@ -2,7 +2,7 @@
 <TextureAtlas imagePath="menu_freeplay.png">
 	<!-- Created with Adobe Animate version 24.0.1.329 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="FREE instance 10000" x="0" y="0" width="560" height="157"/>
-	<SubTexture name="FREE instance 10001" x="0" y="157" width="560" height="157"/>
-	<SubTexture name="FREE instance 10002" x="0" y="314" width="560" height="155" frameX="0" frameY="-1" frameWidth="560" frameHeight="157"/>
+	<SubTexture name="freeplay instance 10000" x="0" y="0" width="560" height="157"/>
+	<SubTexture name="freeplay instance 10001" x="0" y="157" width="560" height="157"/>
+	<SubTexture name="freeplay instance 10002" x="0" y="314" width="560" height="155" frameX="0" frameY="-1" frameWidth="560" frameHeight="157"/>
 </TextureAtlas>
