@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Encounter", "dab", [255, 137, 137]],
+		["Glow", "dab", [255, 137, 253]]
+	],
+
+	"difficulties": "Hard",
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "dab",
+
+	"storyName": "VS Dab",
+	"weekBefore": "week7",
+	"weekName": "Dab Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
