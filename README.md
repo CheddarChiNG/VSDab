@@ -7,13 +7,13 @@ This mod runs on SquidBowl's Modified Psych Engine Fork! Check it out [here!](ht
 * Fuck around and find out
 
 # Credits:
-* [kurubyte](https://twitter.com/kurubite) - Lead Musician
+* [kurubyte] - Musician
 * [TheConcealedCow](https://gamebanana.com/members/1739194) - Programmer / Moral Support
-* [CobaltBar](https://cobaltbar.github.io) - Lead Programmer
-* [Kuromii](https://cherrychii.carrd.co)- Director / Artist / Animator
-* [Daniel](https://github.com/Skruyo) - Charter / Moral Support
+* [CobaltBar](https://cobaltbar.github.io) - Programmer
+* [Kuromii](https://cherrychii.carrd.co)- Director / Artist
+* [Daniel](https://github.com/Skruyo) - Charter
 * [DopudioFLP](https://x.com/DopudioFLP) - Musician
-* [SMB](https://smb-bio.carrd.co) - Programmer / Artist
+* [SMB](https://smb-bio.carrd.co) - Programmer
 * [Twiznho](https://linktr.ee/twizinho) - Charter
 * [Mario](https://fanontubbies.fandom.com/wiki/Mario) - Exists
 
