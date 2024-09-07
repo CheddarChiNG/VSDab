@@ -7,7 +7,7 @@ This mod runs on SquidBowl's Modified Psych Engine Fork! Check it out [here!](ht
 * Fuck around and find out
 
 # Credits:
-* [kurubyte] - Musician
+* Kuru - Musician
 * [TheConcealedCow](https://gamebanana.com/members/1739194) - Programmer / Moral Support
 * [CobaltBar](https://cobaltbar.github.io) - Programmer
 * [Kuromii](https://cherrychii.carrd.co)- Director / Artist
